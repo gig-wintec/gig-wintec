@@ -1,8 +1,12 @@
-- 👋 Hi, I’m @gig-wintec
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+||Zumba|Events|TinyHomes|VR game|
+|---|---|---|---|---|
+|Lead Dev|Ryan|Bikal|Ben|Dorge|
+|Dev|Cam|Cam|Andrew|Zac|
+|Lead Designer|David|Howard|Howard|Zac/Ben|
+|Designer|Howard||||
+|Tester|David|Howard|David|Cam|
+|BA|Howard|Andrew|David|Sue|
+|PM|David|David|Cam|Bikal|
 
 <!---
 gig-wintec/gig-wintec is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
